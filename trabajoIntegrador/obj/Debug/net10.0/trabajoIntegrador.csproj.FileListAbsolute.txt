@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\bin\Debug\net10.0\trabajoIntegrador.exe
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\bin\Debug\net10.0\trabajoIntegrador.deps.json
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\bin\Debug\net10.0\trabajoIntegrador.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\bin\Debug\net10.0\trabajoIntegrador.dll
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\bin\Debug\net10.0\trabajoIntegrador.pdb
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.dll
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\refint\trabajoIntegrador.dll
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.pdb
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\trabajoIntegrador.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos\trabajoIntegrador\trabajoIntegrador\obj\Debug\net10.0\ref\trabajoIntegrador.dll
